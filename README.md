@@ -19,4 +19,4 @@ A partir do fornecimento de ambas as entradas o autômato é "carregado" e entã
 ## Autores
 
   - Giovanni Rosa Marcomini
-  - Giovanne Amaral
+  - Giovane Do Amaral
